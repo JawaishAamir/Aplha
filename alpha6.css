@@ -1,0 +1,160 @@
+body{
+    background-image: url(images/blue-1478760329108-5c3ed9d495a0.jpeg); background-size: cover; background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.main_head{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    padding: 5px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-image: url(images/blue\ sky\ 2022-09-17\ 123022.png); background-size: cover;
+   
+}
+
+.head{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 0;
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: -10px;
+   color: aliceblue;   
+}
+#head1{
+    margin-right: 230px;
+    font-size:25px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(224, 211, 211);
+
+}
+#head1:hover{
+    color: rgb(255, 255, 255);
+}
+#head1_2{
+    color: gold;
+}
+
+#head2{
+    color: aliceblue;
+}
+#head9{
+    color: gold;
+    margin-right: 40px;
+}
+
+
+
+.me{
+    color: gold;
+    display: flex; 
+    justify-content: center;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.main{
+    display: flex;
+    justify-content:center ;
+    margin-top: -20px;
+}
+.me1{
+    width: 50px;
+    height: 4px;
+    background-color: black;
+    
+}
+
+.me2{
+    width: 90px;
+   height: 5px;
+   background-color: rgb(215, 183, 2);
+}
+
+.q{
+    color: snow;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    
+}
+.form{
+    font-size: larger;
+}
+input{
+    font-size: 15px;
+    padding-right: 70px;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom:7px;
+    border-radius: 8px;
+    border: 3px;
+    margin-bottom: 20px;
+    background-color: rgba(193, 182, 182, 0.157);
+    color: rgb(0, 128, 255);
+}
+.message{
+    padding-bottom: 100px;
+   
+}
+.sent{
+    border-radius: 40px;
+    padding-right: 10px;
+    color: black;
+    background-color: gold;
+    font-weight:bold;
+    border: 3px solid black;
+}
+.sent:hover{
+    color: dodgerblue;
+}
+.main_form{
+    margin-left: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.contact_1{
+    width: 400px;
+    margin-left: 100px;
+
+}
+.f{
+    color: rgba(255, 255, 255, 0.624);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.vv{
+    font-size:25px ;
+    border-radius: 100px;
+    position: relative;
+    top: 5px;
+
+   
+}
+.v{
+    font-size: 20px;
+    color: aliceblue;
+    margin-left: 15px;  
+}
+.vvv{
+   font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  top: -30px;
+  left: 50px;
+  color: rgb(167, 153, 153);
+}
+.vvvv{
+    position: relative;
+    top: -50px;
+    left: 50px;
+    color: rgb(165, 152, 152);
+}
+
+

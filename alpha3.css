@@ -1,0 +1,137 @@
+body{
+    background-image: url(images/blue-1478760329108-5c3ed9d495a0.jpeg); background-size: cover; background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.main_head{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    padding: 5px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-image: url(images/blue\ sky\ 2022-09-17\ 123022.png); background-size: cover;
+   
+}
+
+.head{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 0;
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: -10px;
+   color: aliceblue;   
+}
+#head1{
+    margin-right: 230px;
+    font-size:25px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(224, 211, 211);
+
+}
+#head1:hover{
+    color: rgb(255, 255, 255);
+}
+#head1_2{
+    color: gold;
+}
+
+#head2{
+    color: aliceblue;
+}
+#head9{
+    color: gold;
+    margin-right: 40px;
+}
+
+
+
+.me{
+    color: gold;
+    display: flex; 
+    justify-content: center;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.main{
+    display: flex;
+    justify-content:center ;
+    margin-top: -20px;
+}
+.me1{
+    width: 50px;
+    height: 4px;
+    background-color: black;
+    
+}
+
+.me2{
+    width: 90px;
+   height: 5px;
+   background-color: rgb(215, 183, 2);
+}
+
+
+.box{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+.boxes{
+    height: 655px;
+    width: 450px;
+    background-color:rgba(5, 61, 117, 0.207) ;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 80px 5px rgba(255, 245, 238, 0.485);
+    margin-bottom: 100px;
+
+}
+.boxx{
+    margin: 10px;
+   font-size: 15px;
+
+}
+.pen{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+ 
+}
+.pen1{
+    color: rgb(155, 155, 155);
+}
+.q{
+    color:  gold;
+    margin-top: -10px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.w{
+    color: rgb(159, 155, 155);
+    margin-top: -20px;
+}
+.e{
+    color: snow;
+    margin-top: -7px;
+}
+.r{
+    color: rgb(189, 185, 185);
+    margin-top: -15px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
